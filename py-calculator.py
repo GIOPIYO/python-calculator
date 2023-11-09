@@ -1,5 +1,5 @@
-print("Welcome to the simple calcultor")
-operation=print("Enter: \n a for addition \n s for subtration \n m for multiplication \n d for division \n r to find remainder")
+print("Welcome to the simple calculator")
+operation=print("Enter: \n a for addition \n s for subtraction \n m for multiplication \n d for division \n r to find remainder")
 operate=input().lower()
 a=int(input("Enter the first number: "))
 b=int(input("enter the second number: "))
